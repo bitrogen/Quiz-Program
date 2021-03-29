@@ -1,0 +1,11 @@
+agree = disagree
+ally = enemy
+begin = end
+bad = good
+before = after
+black = white
+cold = hot
+dark = light
+odd = even
+on = off
+new = old 
