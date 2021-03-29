@@ -1,0 +1,49 @@
+QPushButton{
+  background-color: #ffffff;
+  border-style: outset;
+  color:rgb(0,0,40);
+  font-size: 20px;
+  border-radius: 10px;
+  border-style:solid;
+  border-width: 2px;
+  border-color: #000000;
+  padding: 4px;
+}
+QPushButton:hover {
+  font-size: 25px;
+  border-color: red;
+  border-width: 2px;
+}
+
+QLabel{
+  font-size: 40px;
+  color: white;
+  font-style: bold;
+}
+QMenu{
+    background-color: gray;
+    color: white;
+
+}
+QMenuBar {
+    background-color: rgb(15,20,25);
+    color:white;
+
+    font-size: 20px;
+}
+QMenuBar::item:selected {
+    background: white;
+    color:rgb(15,20,25);
+}
+QMainWindow{
+    background-color: rgb(0,0,40);
+    color:black;
+    border-style:none;
+    border-radius: 10px;
+}
+QLCDNumber {
+  color:white;
+
+  border-radius:10px;
+  border:2px solid white;
+}
