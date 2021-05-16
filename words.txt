@@ -9,3 +9,4 @@ dark = light
 odd = even
 on = off
 new = old 
+happy = sad
